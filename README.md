@@ -1,0 +1,2 @@
+# NewGame
+Nothing special
